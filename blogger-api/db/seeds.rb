@@ -6,3 +6,4 @@
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
 Post.create!(title: "First post", content: "This is the first post!")
+Post.create!(title: "Second post", content: "This is the second post!")
