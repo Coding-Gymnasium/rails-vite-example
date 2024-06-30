@@ -9,5 +9,5 @@
     "strict": true,
     "noEmit": true
   },
-  "include": ["react/vite.config.ts", "react/src/**/*.d.ts"]
+  "include": ["vite.config.ts", "src/**/*.d.ts"]
 }
